@@ -54,7 +54,7 @@
 	<h2>Zebras</h2>
 
 		<p>Zekes's (soort: <?php echo $zeke->getSpecies() ?>) special move: <?php echo $zeke->doSpecialMove() ?></p>
-		<p>Zekes's (soort: <?php echo $zana->getSpecies()  ?>) special move: <?php echo $zana->doSpecialMove() ?></p>
+		<p>Zana's (soort: <?php echo $zana->getSpecies()  ?>) special move: <?php echo $zana->doSpecialMove() ?></p>
 
 
 	</body>
